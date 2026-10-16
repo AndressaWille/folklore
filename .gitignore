@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+.pytest_cache/
+.ipynb_checkpoints/
+docs/_build/
+docs/api/generated/
+.venv/
+venv/
+.DS_Store
+
+# data and outputs
+*.fits
+*.fits.gz
+examples/output/
+docs/tutorials/output/
+.coverage
