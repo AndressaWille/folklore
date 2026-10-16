@@ -3,8 +3,6 @@ FOLKLORE
 
 **Finding Overdensities and Luminous Knots via LOcal contRast Estimation**
 
-*Drawing stars around galactic scars.*
-
 FOLKLORE detects star-forming clumps in multi-filter photometric data
 cubes, matches them across filters, measures their sizes and positions and
 extracts background-subtracted photometry ready for SED fitting.
