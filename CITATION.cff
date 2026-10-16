@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Wille
     given-names: Andressa
+doi: 10.5281/zenodo.23407081
 repository-code: "https://github.com/AndressaWille/folklore"
 url: "https://folklore.readthedocs.io"
 license: MIT

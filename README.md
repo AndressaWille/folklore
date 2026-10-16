@@ -6,9 +6,6 @@
 
 <br clear="left">
 
-[![Documentation Status](https://readthedocs.org/projects/folklore/badge/?version=latest)](https://folklore.readthedocs.io/en/latest/)
-[![Tests](https://github.com/AndressaWille/folklore/actions/workflows/tests.yml/badge.svg)](https://github.com/AndressaWille/folklore/actions/workflows/tests.yml)
-
 Detection, cross-filter matching and photometry of star-forming clumps in
 multi-filter photometric data cubes (JWST, HST, ...).
 
@@ -39,6 +36,14 @@ A tutorial notebook is in [`docs/tutorials/`](docs/tutorials/folklore_tutorial.i
 FITS data cubes with shape `(n_filters, ny, nx)`, a celestial WCS and one
 `FILTERn` header keyword per slice — the format produced by
 [lightstack](https://github.com/AndressaWille/lightstack).
+
+## How to cite
+
+If you use FOLKLORE in your research, please cite it through its Zenodo
+record: [doi:10.5281/zenodo.23407081](https://doi.org/10.5281/zenodo.23407081).
+
+This DOI always points to the latest version; the Zenodo page also lists
+a DOI for each individual version.
 
 ## Contact
 

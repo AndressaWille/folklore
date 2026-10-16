@@ -67,6 +67,14 @@ Source code: https://github.com/AndressaWille/folklore
    api/index
    changelog
 
+How to cite
+-----------
+
+If you use FOLKLORE in your research, please cite it through its Zenodo
+record: `doi:10.5281/zenodo.23407081 <https://doi.org/10.5281/zenodo.23407081>`_. This DOI always points to
+the latest version; the Zenodo page also lists a DOI for each individual
+version.
+
 Contact
 -------
 
