@@ -13,7 +13,7 @@ Every public function is available directly from the top-level package::
 or from its submodule (``folklore.detection.build_clump_dataframes``).
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from . import (
     detection,
