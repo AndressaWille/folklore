@@ -15,9 +15,3 @@ its saved outputs.
    :maxdepth: 1
 
    folklore_tutorial
-
-The complete detection and photometry scripts are in the ``examples/``
-folder of the repository:
-
-* ``examples/run_detection.py``
-* ``examples/run_photometry.py``

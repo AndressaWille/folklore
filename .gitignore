@@ -15,6 +15,5 @@ venv/
 # data and outputs
 *.fits
 *.fits.gz
-examples/output/
 docs/tutorials/output/
 .coverage

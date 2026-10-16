@@ -32,7 +32,7 @@ The package is imported as `folklore`.
 
 https://folklore.readthedocs.io
 
-A tutorial notebook is in [`docs/tutorials/`](docs/tutorials/folklore_tutorial.ipynb) and complete scripts are in [`examples/`](examples/).
+A tutorial notebook is in [`docs/tutorials/`](docs/tutorials/folklore_tutorial.ipynb).
 
 ## Input data
 
