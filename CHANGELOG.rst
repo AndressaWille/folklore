@@ -1,6 +1,20 @@
 Changelog
 =========
 
+0.1.3 (2026-10-26)
+------------------
+
+No code changes. The package version, CITATION.cff and the release tag
+now match (the 0.1.2 archive still reported version 0.1.1).
+
+0.1.2 (2026-10-26)
+------------------
+
+Documentation only; the code is the same as in 0.1.0.
+
+* Zenodo DOI and "How to cite" section in the README; README badges removed.
+* Simpler documentation front page.
+
 0.1.1 (2026-10-15)
 ------------------
 
